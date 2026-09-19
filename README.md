@@ -201,7 +201,7 @@ flowchart LR
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React, Vite, JavaScript, React Router, CSS |
+| **Frontend** | React, Vite, JavaScript, HTML5, CSS, React Router |
 | **Backend** | Node.js, Express.js |
 | **Database** | PostgreSQL |
 | **Authentication** | JWT, bcrypt, HTTP-only cookies |
